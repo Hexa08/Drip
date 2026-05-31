@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Gold Metallic Shiny Hanger Icon representing Drip Fashion -->
+    <!-- Hook support path -->
+    <path
+        android:fillColor="#C8A96E"
+        android:pathData="M54,22 C59.5,22 64,26.5 64,32 C64,35 62,37.5 59,38 M54,23 C58,23 61.5,26.5 61.5,31"
+        android:strokeWidth="3"
+        android:strokeColor="#C8A96E"
+        android:strokeLineCap="round" />
+        
+    <!-- Main hanger frame -->
+    <path
+        android:fillColor="#C8A96E"
+        android:pathData="M54,39 L24,60 C22.5,61.1 23,63 25,63 L83,63 C85,63 85.5,61.1 84,60 Z"
+        android:strokeWidth="1"
+        android:strokeColor="#C8A96E" />
+        
+    <!-- Hanger cross bar accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,58 L76,58"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+        
+</vector>
